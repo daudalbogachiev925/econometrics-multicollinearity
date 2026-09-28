@@ -1,0 +1,2 @@
+# econometrics-multicollinearity
+Эконометрика
